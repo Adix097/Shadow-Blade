@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: a1f5d4f0a97f2c8429e7ea6087d23912
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2104944846452323627
+    second: Elite_Guard_spritesheet_0
+  - first:
+      213: 6653702027810344065
+    second: Elite_Guard_spritesheet_1
+  - first:
+      213: 3256173604552340205
+    second: Elite_Guard_spritesheet_2
+  - first:
+      213: 4923075884860269017
+    second: Elite_Guard_spritesheet_3
+  - first:
+      213: -5785369047875382187
+    second: Elite_Guard_spritesheet_4
+  - first:
+      213: -7237004631858363562
+    second: Elite_Guard_spritesheet_5
+  - first:
+      213: -4198076850171110429
+    second: Elite_Guard_spritesheet_6
+  - first:
+      213: 8783117574756955488
+    second: Elite_Guard_spritesheet_7
+  - first:
+      213: -5448533125426769769
+    second: Elite_Guard_spritesheet_8
+  - first:
+      213: -6171909677703713544
+    second: Elite_Guard_spritesheet_9
+  - first:
+      213: 5534601585826105177
+    second: Elite_Guard_spritesheet_10
+  - first:
+      213: -2502763872238044133
+    second: Elite_Guard_spritesheet_11
+  - first:
+      213: 145509697135889977
+    second: Elite_Guard_spritesheet_12
+  - first:
+      213: -4785767572977099407
+    second: Elite_Guard_spritesheet_13
+  - first:
+      213: -6065683729695973029
+    second: Elite_Guard_spritesheet_14
+  - first:
+      213: 4504876481696210691
+    second: Elite_Guard_spritesheet_15
+  - first:
+      213: -3598543182522795027
+    second: Elite_Guard_spritesheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 191
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da8b6b80dbb9c2e0800000000000000
+      internalID: -2104944846452323627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c8ee0ddb2b65c50800000000000000
+      internalID: 6653702027810344065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 191
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2785234a0403d20800000000000000
+      internalID: 3256173604552340205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 191
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d163670f67425440800000000000000
+      internalID: 4923075884860269017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 143
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55419dec08d36bfa0800000000000000
+      internalID: -5785369047875382187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653c93071aef09b90800000000000000
+      internalID: -7237004631858363562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 143
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb92cdd85f6db5c0800000000000000
+      internalID: -4198076850171110429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 143
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065f0e736e6e3e970800000000000000
+      internalID: 8783117574756955488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 143
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7901dff6dfbe264b0800000000000000
+      internalID: -5448533125426769769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 143
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcacaa29d8f85aa0800000000000000
+      internalID: -6171909677703713544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 95
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9578a7891dadecc40800000000000000
+      internalID: 5534601585826105177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cf196b485644dd0800000000000000
+      internalID: -2502763872238044133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 95
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ec8217c44f40200800000000000000
+      internalID: 145509697135889977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 47
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ddd1b9fb9859db0800000000000000
+      internalID: -4785767572977099407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51ea9309cc52dba0800000000000000
+      internalID: -6065683729695973029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f9380da49848e30800000000000000
+      internalID: 4504876481696210691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite_Guard_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb33d89a086f0ec0800000000000000
+      internalID: -3598543182522795027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elite_Guard_spritesheet_0: -2104944846452323627
+      Elite_Guard_spritesheet_1: 6653702027810344065
+      Elite_Guard_spritesheet_10: 5534601585826105177
+      Elite_Guard_spritesheet_11: -2502763872238044133
+      Elite_Guard_spritesheet_12: 145509697135889977
+      Elite_Guard_spritesheet_13: -4785767572977099407
+      Elite_Guard_spritesheet_14: -6065683729695973029
+      Elite_Guard_spritesheet_15: 4504876481696210691
+      Elite_Guard_spritesheet_16: -3598543182522795027
+      Elite_Guard_spritesheet_2: 3256173604552340205
+      Elite_Guard_spritesheet_3: 4923075884860269017
+      Elite_Guard_spritesheet_4: -5785369047875382187
+      Elite_Guard_spritesheet_5: -7237004631858363562
+      Elite_Guard_spritesheet_6: -4198076850171110429
+      Elite_Guard_spritesheet_7: 8783117574756955488
+      Elite_Guard_spritesheet_8: -5448533125426769769
+      Elite_Guard_spritesheet_9: -6171909677703713544
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

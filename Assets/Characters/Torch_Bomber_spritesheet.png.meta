@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 62dad7729ff2cb748aee0fcf613779c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9175727943473972072
+    second: Torch_Bomber_spritesheet_0
+  - first:
+      213: 2743657050625279454
+    second: Torch_Bomber_spritesheet_1
+  - first:
+      213: 1279364016350047998
+    second: Torch_Bomber_spritesheet_2
+  - first:
+      213: -2004907722897244655
+    second: Torch_Bomber_spritesheet_3
+  - first:
+      213: 8240673629773707176
+    second: Torch_Bomber_spritesheet_4
+  - first:
+      213: 9031831161119213098
+    second: Torch_Bomber_spritesheet_5
+  - first:
+      213: -3491639868787121446
+    second: Torch_Bomber_spritesheet_6
+  - first:
+      213: -2787437957120394694
+    second: Torch_Bomber_spritesheet_7
+  - first:
+      213: 7409657628473150006
+    second: Torch_Bomber_spritesheet_8
+  - first:
+      213: 2584830162176433331
+    second: Torch_Bomber_spritesheet_9
+  - first:
+      213: -2144393545275884295
+    second: Torch_Bomber_spritesheet_10
+  - first:
+      213: 3353898612315615081
+    second: Torch_Bomber_spritesheet_11
+  - first:
+      213: -6263212896479425800
+    second: Torch_Bomber_spritesheet_12
+  - first:
+      213: 3874540717643375924
+    second: Torch_Bomber_spritesheet_13
+  - first:
+      213: -1750038205681540605
+    second: Torch_Bomber_spritesheet_14
+  - first:
+      213: -4051368943867825954
+    second: Torch_Bomber_spritesheet_15
+  - first:
+      213: -6081223844493747576
+    second: Torch_Bomber_spritesheet_16
+  - first:
+      213: 1127438368337064044
+    second: Torch_Bomber_spritesheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863446213fbb65f70800000000000000
+      internalID: 9175727943473972072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed504001d8d631620800000000000000
+      internalID: 2743657050625279454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe26f46bc631c110800000000000000
+      internalID: 1279364016350047998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eb5496c032d24e0800000000000000
+      internalID: -2004907722897244655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 143
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7379c5101cc5270800000000000000
+      internalID: 8240673629773707176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2680dd9692875d70800000000000000
+      internalID: 9031831161119213098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad22a51f9043b8fc0800000000000000
+      internalID: -3491639868787121446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3af56c42f70159d0800000000000000
+      internalID: -2787437957120394694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 143
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ac764ea5464d660800000000000000
+      internalID: 7409657628473150006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 143
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcdd3566592fd320800000000000000
+      internalID: 2584830162176433331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcb03b9e659d32e0800000000000000
+      internalID: -2144393545275884295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f6fb7a4017b8e20800000000000000
+      internalID: 3353898612315615081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 118
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fac2b8fd099419a0800000000000000
+      internalID: -6263212896479425800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435abe6214225c530800000000000000
+      internalID: 3874540717643375924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 47
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3026df6268d96b7e0800000000000000
+      internalID: -1750038205681540605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed075be1965a6c7c0800000000000000
+      internalID: -4051368943867825954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a905512272b9ba0800000000000000
+      internalID: -6081223844493747576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Bomber_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6070eaf83775af00800000000000000
+      internalID: 1127438368337064044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Torch_Bomber_spritesheet_0: 9175727943473972072
+      Torch_Bomber_spritesheet_1: 2743657050625279454
+      Torch_Bomber_spritesheet_10: -2144393545275884295
+      Torch_Bomber_spritesheet_11: 3353898612315615081
+      Torch_Bomber_spritesheet_12: -6263212896479425800
+      Torch_Bomber_spritesheet_13: 3874540717643375924
+      Torch_Bomber_spritesheet_14: -1750038205681540605
+      Torch_Bomber_spritesheet_15: -4051368943867825954
+      Torch_Bomber_spritesheet_16: -6081223844493747576
+      Torch_Bomber_spritesheet_17: 1127438368337064044
+      Torch_Bomber_spritesheet_2: 1279364016350047998
+      Torch_Bomber_spritesheet_3: -2004907722897244655
+      Torch_Bomber_spritesheet_4: 8240673629773707176
+      Torch_Bomber_spritesheet_5: 9031831161119213098
+      Torch_Bomber_spritesheet_6: -3491639868787121446
+      Torch_Bomber_spritesheet_7: -2787437957120394694
+      Torch_Bomber_spritesheet_8: 7409657628473150006
+      Torch_Bomber_spritesheet_9: 2584830162176433331
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

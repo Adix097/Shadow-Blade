@@ -1,0 +1,98 @@
+{
+ "character": "Kenshin",
+ "cell": 48,
+ "columns": 6,
+ "animations": [
+  {
+   "name": "idle",
+   "row": 0,
+   "frames": 4,
+   "fps": 6,
+   "loop": true
+  },
+  {
+   "name": "walk",
+   "row": 1,
+   "frames": 6,
+   "fps": 10,
+   "loop": true
+  },
+  {
+   "name": "run",
+   "row": 2,
+   "frames": 6,
+   "fps": 14,
+   "loop": true
+  },
+  {
+   "name": "jump",
+   "row": 3,
+   "frames": 2,
+   "fps": 8,
+   "loop": false
+  },
+  {
+   "name": "fall",
+   "row": 4,
+   "frames": 2,
+   "fps": 8,
+   "loop": true
+  },
+  {
+   "name": "wallslide",
+   "row": 5,
+   "frames": 2,
+   "fps": 6,
+   "loop": true
+  },
+  {
+   "name": "dash",
+   "row": 6,
+   "frames": 3,
+   "fps": 16,
+   "loop": false
+  },
+  {
+   "name": "slash1",
+   "row": 7,
+   "frames": 3,
+   "fps": 14,
+   "loop": false
+  },
+  {
+   "name": "slash2",
+   "row": 8,
+   "frames": 3,
+   "fps": 14,
+   "loop": false
+  },
+  {
+   "name": "slash3",
+   "row": 9,
+   "frames": 3,
+   "fps": 14,
+   "loop": false
+  },
+  {
+   "name": "throw",
+   "row": 10,
+   "frames": 3,
+   "fps": 14,
+   "loop": false
+  },
+  {
+   "name": "hurt",
+   "row": 11,
+   "frames": 1,
+   "fps": 8,
+   "loop": false
+  },
+  {
+   "name": "death",
+   "row": 12,
+   "frames": 3,
+   "fps": 8,
+   "loop": false
+  }
+ ]
+}

@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: f390d676efe360e4496e1e48a65aef85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 178684441121099852
+    second: Lord_Daigo_Possessed_spritesheet_0
+  - first:
+      213: 3294713185759615836
+    second: Lord_Daigo_Possessed_spritesheet_1
+  - first:
+      213: -5554912822111477902
+    second: Lord_Daigo_Possessed_spritesheet_2
+  - first:
+      213: -5823876126475508564
+    second: Lord_Daigo_Possessed_spritesheet_3
+  - first:
+      213: -3230501978520744508
+    second: Lord_Daigo_Possessed_spritesheet_4
+  - first:
+      213: -7004342146468407311
+    second: Lord_Daigo_Possessed_spritesheet_5
+  - first:
+      213: 6384012989017262654
+    second: Lord_Daigo_Possessed_spritesheet_6
+  - first:
+      213: 6379382786159485003
+    second: Lord_Daigo_Possessed_spritesheet_7
+  - first:
+      213: 7906490341736379427
+    second: Lord_Daigo_Possessed_spritesheet_8
+  - first:
+      213: -5173497487255271031
+    second: Lord_Daigo_Possessed_spritesheet_9
+  - first:
+      213: -1310860492157899087
+    second: Lord_Daigo_Possessed_spritesheet_10
+  - first:
+      213: 6828263329523503756
+    second: Lord_Daigo_Possessed_spritesheet_11
+  - first:
+      213: -4218192603219995511
+    second: Lord_Daigo_Possessed_spritesheet_12
+  - first:
+      213: 8212141318797738642
+    second: Lord_Daigo_Possessed_spritesheet_13
+  - first:
+      213: 9164111510653441693
+    second: Lord_Daigo_Possessed_spritesheet_14
+  - first:
+      213: -8289562301249193027
+    second: Lord_Daigo_Possessed_spritesheet_15
+  - first:
+      213: -5468822774747805012
+    second: Lord_Daigo_Possessed_spritesheet_16
+  - first:
+      213: -643315146397084443
+    second: Lord_Daigo_Possessed_spritesheet_17
+  - first:
+      213: -5204155965470308640
+    second: Lord_Daigo_Possessed_spritesheet_18
+  - first:
+      213: -2516384272406572671
+    second: Lord_Daigo_Possessed_spritesheet_19
+  - first:
+      213: -543115901439639350
+    second: Lord_Daigo_Possessed_spritesheet_20
+  - first:
+      213: 1328704318904489429
+    second: Lord_Daigo_Possessed_spritesheet_21
+  - first:
+      213: -5836439819083392236
+    second: Lord_Daigo_Possessed_spritesheet_22
+  - first:
+      213: -5284276168200479505
+    second: Lord_Daigo_Possessed_spritesheet_23
+  - first:
+      213: -5346002222654260761
+    second: Lord_Daigo_Possessed_spritesheet_24
+  - first:
+      213: 159435756016983417
+    second: Lord_Daigo_Possessed_spritesheet_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4099ef6d80da7200800000000000000
+      internalID: 178684441121099852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 191
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b5ff1bf2c29bd20800000000000000
+      internalID: 3294713185759615836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 229
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f58cf283cf8e2b0800000000000000
+      internalID: -5554912822111477902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 230
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4ac89e48f6d2fa0800000000000000
+      internalID: -5823876126475508564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd03140193fa23d0800000000000000
+      internalID: -3230501978520744508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 191
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7147aade39bce90800000000000000
+      internalID: -7004342146468407311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8ad35df1989850800000000000000
+      internalID: 6384012989017262654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 197
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40274738de188850800000000000000
+      internalID: 6379382786159485003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324f04f431f79bd60800000000000000
+      internalID: 7906490341736379427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 143
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98906c9127b0438b0800000000000000
+      internalID: -5173497487255271031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bea5ded353eecde0800000000000000
+      internalID: -1310860492157899087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82131d025dd2ce50800000000000000
+      internalID: 6828263329523503756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 143
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98454e22d28f575c0800000000000000
+      internalID: -4218192603219995511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 182
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2924f38050367f170800000000000000
+      internalID: 8212141318797738642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 178
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96119a8dd67d2f70800000000000000
+      internalID: 9164111510653441693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 143
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb729ac10f85fc80800000000000000
+      internalID: -8289562301249193027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa479359a6da14b0800000000000000
+      internalID: -5468822774747805012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e49f54684c7217f0800000000000000
+      internalID: -643315146397084443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 123
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e68962e8bf17c7b0800000000000000
+      internalID: -5204155965470308640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 95
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18193dc26d1041dd0800000000000000
+      internalID: -2516384272406572671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 131
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac003d617f67678f0800000000000000
+      internalID: -543115901439639350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d554dbc981807210800000000000000
+      internalID: 1328704318904489429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bd69648ecc00fa0800000000000000
+      internalID: -5836439819083392236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec195382da7aa6b0800000000000000
+      internalID: -5284276168200479505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e97e368d4f2fc5b0800000000000000
+      internalID: -5346002222654260761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord_Daigo_Possessed_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d53e1b9fd663200800000000000000
+      internalID: 159435756016983417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lord_Daigo_Possessed_spritesheet_0: 178684441121099852
+      Lord_Daigo_Possessed_spritesheet_1: 3294713185759615836
+      Lord_Daigo_Possessed_spritesheet_10: -1310860492157899087
+      Lord_Daigo_Possessed_spritesheet_11: 6828263329523503756
+      Lord_Daigo_Possessed_spritesheet_12: -4218192603219995511
+      Lord_Daigo_Possessed_spritesheet_13: 8212141318797738642
+      Lord_Daigo_Possessed_spritesheet_14: 9164111510653441693
+      Lord_Daigo_Possessed_spritesheet_15: -8289562301249193027
+      Lord_Daigo_Possessed_spritesheet_16: -5468822774747805012
+      Lord_Daigo_Possessed_spritesheet_17: -643315146397084443
+      Lord_Daigo_Possessed_spritesheet_18: -5204155965470308640
+      Lord_Daigo_Possessed_spritesheet_19: -2516384272406572671
+      Lord_Daigo_Possessed_spritesheet_2: -5554912822111477902
+      Lord_Daigo_Possessed_spritesheet_20: -543115901439639350
+      Lord_Daigo_Possessed_spritesheet_21: 1328704318904489429
+      Lord_Daigo_Possessed_spritesheet_22: -5836439819083392236
+      Lord_Daigo_Possessed_spritesheet_23: -5284276168200479505
+      Lord_Daigo_Possessed_spritesheet_24: -5346002222654260761
+      Lord_Daigo_Possessed_spritesheet_25: 159435756016983417
+      Lord_Daigo_Possessed_spritesheet_3: -5823876126475508564
+      Lord_Daigo_Possessed_spritesheet_4: -3230501978520744508
+      Lord_Daigo_Possessed_spritesheet_5: -7004342146468407311
+      Lord_Daigo_Possessed_spritesheet_6: 6384012989017262654
+      Lord_Daigo_Possessed_spritesheet_7: 6379382786159485003
+      Lord_Daigo_Possessed_spritesheet_8: 7906490341736379427
+      Lord_Daigo_Possessed_spritesheet_9: -5173497487255271031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

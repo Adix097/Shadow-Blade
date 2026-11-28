@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: c2f7c13a9070b5d48b47c7470c861600
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 771519154662307464
+    second: Kenshin_spritesheet_0
+  - first:
+      213: 1174684651185284477
+    second: Kenshin_spritesheet_1
+  - first:
+      213: 6651436599558582301
+    second: Kenshin_spritesheet_2
+  - first:
+      213: -660943969903264523
+    second: Kenshin_spritesheet_3
+  - first:
+      213: 6739065601616276065
+    second: Kenshin_spritesheet_4
+  - first:
+      213: 9172469945820239228
+    second: Kenshin_spritesheet_5
+  - first:
+      213: -3366137026239882619
+    second: Kenshin_spritesheet_6
+  - first:
+      213: -3161211965837048441
+    second: Kenshin_spritesheet_7
+  - first:
+      213: -8191892026751712454
+    second: Kenshin_spritesheet_8
+  - first:
+      213: -9113168998769466393
+    second: Kenshin_spritesheet_9
+  - first:
+      213: 9036848644834658386
+    second: Kenshin_spritesheet_10
+  - first:
+      213: 4891212074956904343
+    second: Kenshin_spritesheet_11
+  - first:
+      213: -5801314342654913712
+    second: Kenshin_spritesheet_12
+  - first:
+      213: -5997477015114723233
+    second: Kenshin_spritesheet_13
+  - first:
+      213: -5985220823830743274
+    second: Kenshin_spritesheet_14
+  - first:
+      213: 4561572297984659950
+    second: Kenshin_spritesheet_15
+  - first:
+      213: -202365415491847558
+    second: Kenshin_spritesheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 191
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8867e0f559cf4ba00800000000000000
+      internalID: 771519154662307464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 191
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75a00d67715d4010800000000000000
+      internalID: 1174684651185284477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 191
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10b8b2b856ae4c50800000000000000
+      internalID: 6651436599558582301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 191
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcba7116fad3d6f0800000000000000
+      internalID: -660943969903264523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 143
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a6466a578f58d50800000000000000
+      internalID: 6739065601616276065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 143
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75df8161d82b4f70800000000000000
+      internalID: 9172469945820239228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 143
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a9ead85341941d0800000000000000
+      internalID: -3366137026239882619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 143
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7858194477e1124d0800000000000000
+      internalID: -3161211965837048441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 143
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a330c1baa9d805e80800000000000000
+      internalID: -8191892026751712454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 143
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e36e3a4415878180800000000000000
+      internalID: -9113168998769466393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258075496f5596d70800000000000000
+      internalID: 9036848644834658386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 95
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79758e8a77311e340800000000000000
+      internalID: 4891212074956904343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 95
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053dcaf87579d7fa0800000000000000
+      internalID: -5801314342654913712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 47
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5054854e6ea4cca0800000000000000
+      internalID: -5997477015114723233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6173c4d2f5930fca0800000000000000
+      internalID: -5985220823830743274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee153a636d5fd4f30800000000000000
+      internalID: 4561572297984659950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenshin_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ab8ce0abd013df0800000000000000
+      internalID: -202365415491847558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kenshin_spritesheet_0: 771519154662307464
+      Kenshin_spritesheet_1: 1174684651185284477
+      Kenshin_spritesheet_10: 9036848644834658386
+      Kenshin_spritesheet_11: 4891212074956904343
+      Kenshin_spritesheet_12: -5801314342654913712
+      Kenshin_spritesheet_13: -5997477015114723233
+      Kenshin_spritesheet_14: -5985220823830743274
+      Kenshin_spritesheet_15: 4561572297984659950
+      Kenshin_spritesheet_16: -202365415491847558
+      Kenshin_spritesheet_2: 6651436599558582301
+      Kenshin_spritesheet_3: -660943969903264523
+      Kenshin_spritesheet_4: 6739065601616276065
+      Kenshin_spritesheet_5: 9172469945820239228
+      Kenshin_spritesheet_6: -3366137026239882619
+      Kenshin_spritesheet_7: -3161211965837048441
+      Kenshin_spritesheet_8: -8191892026751712454
+      Kenshin_spritesheet_9: -9113168998769466393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,49 @@
+{
+ "character": "Shield_Guard",
+ "cell": 48,
+ "columns": 6,
+ "animations": [
+  {
+   "name": "idle",
+   "row": 0,
+   "frames": 4,
+   "fps": 6,
+   "loop": true
+  },
+  {
+   "name": "walk",
+   "row": 1,
+   "frames": 6,
+   "fps": 10,
+   "loop": true
+  },
+  {
+   "name": "attack",
+   "row": 2,
+   "frames": 3,
+   "fps": 12,
+   "loop": false
+  },
+  {
+   "name": "block",
+   "row": 3,
+   "frames": 2,
+   "fps": 6,
+   "loop": true
+  },
+  {
+   "name": "hurt",
+   "row": 4,
+   "frames": 1,
+   "fps": 8,
+   "loop": false
+  },
+  {
+   "name": "death",
+   "row": 5,
+   "frames": 3,
+   "fps": 8,
+   "loop": false
+  }
+ ]
+}

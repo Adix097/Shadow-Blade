@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: ad10dfb045d56434c8cc74f6422b3e04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2113043356820712343
+    second: Hana_Princess_spritesheet_0
+  - first:
+      213: -8404833525457218132
+    second: Hana_Princess_spritesheet_1
+  - first:
+      213: 2180498574080864517
+    second: Hana_Princess_spritesheet_2
+  - first:
+      213: 8288725651116793004
+    second: Hana_Princess_spritesheet_3
+  - first:
+      213: -129473730952773290
+    second: Hana_Princess_spritesheet_4
+  - first:
+      213: -6109081645201428348
+    second: Hana_Princess_spritesheet_5
+  - first:
+      213: 2245778481544851050
+    second: Hana_Princess_spritesheet_6
+  - first:
+      213: -76742868527705971
+    second: Hana_Princess_spritesheet_7
+  - first:
+      213: 2260573115503480554
+    second: Hana_Princess_spritesheet_8
+  - first:
+      213: 3568593670562998788
+    second: Hana_Princess_spritesheet_9
+  - first:
+      213: 455912401462914866
+    second: Hana_Princess_spritesheet_10
+  - first:
+      213: -9167834521344779899
+    second: Hana_Princess_spritesheet_11
+  - first:
+      213: 2145652597400428157
+    second: Hana_Princess_spritesheet_12
+  - first:
+      213: 200181952299110306
+    second: Hana_Princess_spritesheet_13
+  - first:
+      213: -5386153685787929851
+    second: Hana_Princess_spritesheet_14
+  - first:
+      213: 1004105798407347107
+    second: Hana_Princess_spritesheet_15
+  - first:
+      213: -6072881748622629566
+    second: Hana_Princess_spritesheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 191
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964d3b92346fca2e0800000000000000
+      internalID: -2113043356820712343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 191
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca514d670780c5b80800000000000000
+      internalID: -8404833525457218132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 191
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501f55d76efa24e10800000000000000
+      internalID: 2180498574080864517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 191
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac1c7b6018770370800000000000000
+      internalID: 8288725651116793004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 143
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651c0d2e354043ef0800000000000000
+      internalID: -129473730952773290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480f8e96c9e283ba0800000000000000
+      internalID: -6109081645201428348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 143
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e62bc51ab9a2f10800000000000000
+      internalID: 2245778481544851050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 143
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d809c5684ca5feef0800000000000000
+      internalID: -76742868527705971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 143
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee0262854b2f5f10800000000000000
+      internalID: 2260573115503480554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 143
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a6d914901368130800000000000000
+      internalID: 3568593670562998788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 95
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f64e1e9e9b35600800000000000000
+      internalID: 455912401462914866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 95
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5895eab731f45c080800000000000000
+      internalID: -9167834521344779899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 95
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e527f4ba3e6cd10800000000000000
+      internalID: 2145652597400428157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af8b3dcc6037c200800000000000000
+      internalID: 200181952299110306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50313f482c98045b0800000000000000
+      internalID: -5386153685787929851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abdaf657ec4fed00800000000000000
+      internalID: 1004105798407347107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hana_Princess_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2452562a93ac8bba0800000000000000
+      internalID: -6072881748622629566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hana_Princess_spritesheet_0: -2113043356820712343
+      Hana_Princess_spritesheet_1: -8404833525457218132
+      Hana_Princess_spritesheet_10: 455912401462914866
+      Hana_Princess_spritesheet_11: -9167834521344779899
+      Hana_Princess_spritesheet_12: 2145652597400428157
+      Hana_Princess_spritesheet_13: 200181952299110306
+      Hana_Princess_spritesheet_14: -5386153685787929851
+      Hana_Princess_spritesheet_15: 1004105798407347107
+      Hana_Princess_spritesheet_16: -6072881748622629566
+      Hana_Princess_spritesheet_2: 2180498574080864517
+      Hana_Princess_spritesheet_3: 8288725651116793004
+      Hana_Princess_spritesheet_4: -129473730952773290
+      Hana_Princess_spritesheet_5: -6109081645201428348
+      Hana_Princess_spritesheet_6: 2245778481544851050
+      Hana_Princess_spritesheet_7: -76742868527705971
+      Hana_Princess_spritesheet_8: 2260573115503480554
+      Hana_Princess_spritesheet_9: 3568593670562998788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
